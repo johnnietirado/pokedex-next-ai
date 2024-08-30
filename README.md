@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación Pokedex construida con Next.js, React, TypeScript y Tailwind CSS. Utiliza el endpoint GraphQL de PokeAPI para obtener datos de Pokémon.
 
+Pruebalo en: https://codealo-pokedex.vercel.app/
+
 ## Características
 
 - Búsqueda de Pokémon
